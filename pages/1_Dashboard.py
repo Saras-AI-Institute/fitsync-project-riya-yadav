@@ -1,5 +1,5 @@
 import streamlit as st
-from modules.proccessor import process_data
+from modules.processor import process_data
 import pandas as pd
 import plotly.express as px
 
